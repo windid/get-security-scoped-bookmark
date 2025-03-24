@@ -1,6 +1,6 @@
 {
   "name": "get-security-scoped-bookmark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A native addon for Electron to get securityScopedBookmark for macOS.",
   "repository": {
     "type": "git",
@@ -11,9 +11,11 @@
     "native",
     "src",
     "binding.gyp",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "clean": "node -e \"require('fs').rmSync('build', { recursive: true, force: true })\"",
     "build": "node-gyp configure && node-gyp build"
