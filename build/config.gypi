@@ -490,10 +490,15 @@
     "nodedir": "/Users/wendell/Library/Caches/node-gyp/23.10.0",
     "python": "/Library/Developer/CommandLineTools/usr/bin/python3",
     "standalone_static_library": 1,
-    "registry": "https://registry.npmjs.org/",
-    "frozen_lockfile": "",
-    "global_bin_dir": "/Users/wendell/.pnpm-global/bin",
-    "node_gyp": "/Users/wendell/Library/pnpm/global/5/.pnpm/pnpm@9.15.4/node_modules/pnpm/dist/node_modules/node-gyp/bin/node-gyp.js",
-    "user_agent": "pnpm/9.15.4 npm/? node/v23.10.0 darwin arm64"
+    "global_prefix": "/usr/local",
+    "local_prefix": "/Users/wendell/Projects/get-security-scoped-bookmark",
+    "globalconfig": "/usr/local/etc/npmrc",
+    "init_module": "/Users/wendell/.npm-init.js",
+    "userconfig": "/Users/wendell/.npmrc",
+    "npm_version": "10.9.2",
+    "node_gyp": "/usr/local/lib/node_modules/npm/node_modules/node-gyp/bin/node-gyp.js",
+    "cache": "/Users/wendell/.npm",
+    "user_agent": "npm/10.9.2 node/v23.10.0 darwin arm64 workspaces/false",
+    "prefix": "/usr/local"
   }
 }
