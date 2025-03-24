@@ -2,6 +2,17 @@
   "name": "get-security-scoped-bookmark",
   "version": "1.0.0",
   "description": "A native addon for Electron to get securityScopedBookmark for macOS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/windid/get-security-scoped-bookmark.git"
+  },
+  "files": [
+    "build/Release",
+    "native",
+    "src",
+    "binding.gyp",
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "clean": "node -e \"require('fs').rmSync('build', { recursive: true, force: true })\"",
