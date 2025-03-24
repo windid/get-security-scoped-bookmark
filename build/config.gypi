@@ -488,7 +488,7 @@
     "want_separate_host_toolset": 0,
     "xcode_version": "16.0",
     "nodedir": "/Users/wendell/Library/Caches/node-gyp/23.10.0",
-    "python": "/Library/Developer/CommandLineTools/usr/bin/python3",
+    "python": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3",
     "standalone_static_library": 1,
     "global_prefix": "/usr/local",
     "local_prefix": "/Users/wendell/Projects/get-security-scoped-bookmark",

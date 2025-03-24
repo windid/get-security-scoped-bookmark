@@ -1,1 +1,1 @@
-cmd_Release/nothing.a := rm -f Release/nothing.a && /Library/Developer/CommandLineTools/usr/bin/python3 gyp-mac-tool filter-libtool libtool  -static -o Release/nothing.a Release/obj.target/nothing/node_modules/.pnpm/node-addon-api@8.3.1/node_modules/node-addon-api/nothing.o
+cmd_Release/nothing.a := rm -f Release/nothing.a && /Applications/Xcode.app/Contents/Developer/usr/bin/python3 gyp-mac-tool filter-libtool libtool  -static -o Release/nothing.a Release/obj.target/nothing/node_modules/.pnpm/node-addon-api@8.3.1/node_modules/node-addon-api/nothing.o
